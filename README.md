@@ -48,6 +48,6 @@ Diseñé una arquitectura de API moderna para centralizar el control de stock y 
 ---
 
 ### 📫 Conectemos:
-- **LinkedIn:** [linkedin.com/in/germanrindizbacher](https://linkedin.com/in/germanrindizbacher)
+- **LinkedIn:** [linkedin.com/in/germanrindizbacher]https://www.linkedin.com/in/grindiz1989/
 - **Email:** grindiz1989@gmail.com
 - **Ubicación:** Santa Fe, Argentina 🇦🇷
