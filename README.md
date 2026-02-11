@@ -3,7 +3,7 @@
 ### 🚀 Software Developer | Full Stack & AI Automation
 
 Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y escalables.
-Me gradué de la Universidad Nacional del Litoral y tengo experiencia sólida en el desarrollo de aplicaciones web y móviles, con un enfoque centrado en la experiencia del usuario.
+Me gradué en el Instituto Superior Teclab y tengo experiencia sólida en el desarrollo de aplicaciones web y móviles, con un enfoque centrado en la experiencia del usuario. Actualmente estoy incursionando en el mundo de la IA
 
 ---
 
@@ -25,9 +25,12 @@ Me gradué de la Universidad Nacional del Litoral y tengo experiencia sólida en
 #### 📈 [Dashboard de Gestión Real-Time](https://github.com/gerindiz)
 *Arquitectura moderna con FastAPI y MongoDB para el control de stock analógico, reduciendo drásticamente los tiempos de respuesta del negocio.* [cite: 18, 19, 20]
 
----
+---🎓 Formación Académica
+
+
+   💼 Experiencia Profesional
 
 ### 📫 Conectemos:
 - [cite_start]**LinkedIn:** [linkedin.com/in/germanrindizbacher](https://linkedin.com/in/germanrindizbacher) 
-- **Email:** grindiz1989@gmail.com [cite: 3]
-- **Ubicación:** Santa Fe, Argentina 🇦🇷 [cite: 3]
+- **Email:** grindiz1989@gmail.com 
+- **Ubicación:** Santa Fe, Argentina 🇦🇷 
