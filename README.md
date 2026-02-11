@@ -1,50 +1,53 @@
 # ¡Hola! Soy Germán Rindizbacher 👋
 
 ### 🚀 Software Developer | Full Stack & AI Automation
-[cite_start]**Desarrollador de Software Junior** con una sólida base analítica proveniente de mi formación como **Técnico Químico**[cite: 2, 6]. [cite_start]Me especializo en crear soluciones tecnológicas eficientes, escalables y centradas en el usuario, con un enfoque actual en la **IA Generativa y la automatización**[cite: 7, 10, 27].
+
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y escalables. Me gradué como Técnico Superior en Programación en el Instituto Teclab y cuento con una sólida base analítica gracias a mi formación como Técnico Químico. Actualmente estoy especializándome en IA Generativa y automatización de procesos.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-* [cite_start]**Frontend:** React, Vite, Vue, JavaScript (ES6+). [cite: 11, 18]
-* [cite_start]**Backend:** Node.js, Express, FastAPI (Python). [cite: 11, 18]
-* [cite_start]**Bases de Datos:** MySQL, MongoDB. [cite: 12, 18]
-* [cite_start]**Especialidad:** Integración de APIs (MercadoPago), Modelos Generativos (LLMs) y Google Cloud. [cite: 10, 15]
+**Frontend**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Bases de Datos & IA**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![ChatGPT](https://img.shields.io/badge/Generative_AI-74aa1c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ### 📊 Proyectos Destacados
 
 #### 🛒 [E-commerce Industrial](https://github.com/gerindiz)
-* [cite_start]**Desafío:** Digitalizar el ciclo de ventas de una unidad de negocio industrial[cite: 16].
-* [cite_start]**Tecnologías:** React, Node.js y MercadoPago API[cite: 15].
-* [cite_start]**Impacto:** Disponibilidad 24/7 y automatización total de cobros mediante Webhooks[cite: 17].
+Digitalicé ventas y automaticé cobros mediante una SPA con catálogo dinámico e integración de MercadoPago Checkout Pro.
+* **Resultado:** Canal de ventas 24/7 que eliminó la atención telefónica y centralizó pagos.
 
 #### 📈 [Dashboard de Gestión Real-Time](https://github.com/gerindiz)
-* [cite_start]**Desafío:** Transición de procesos analógicos a digitales para control de stock[cite: 19].
-* [cite_start]**Tecnologías:** FastAPI (Python), Vue.js y MongoDB[cite: 18].
-* [cite_start]**Impacto:** Visualización de inventario en tiempo real y arquitectura de API escalable[cite: 19, 20].
+Diseñé una arquitectura de API moderna para centralizar el control de stock y pedidos analógicos con visualización en tiempo real.
+* **Resultado:** Reducción drástica del tiempo de respuesta y escalabilidad de datos del negocio.
 
 ---
 
 ### 💼 Experiencia Relevante
 
-* **Desarrollo Independiente:** Diseño e implementación de aplicaciones web a medida y comunicación directa con clientes para relevamiento de requerimientos.
-* [cite_start]**HEG MÁQUINAS (Optimización de Procesos):** Digitalización de logística y gestión de inventario, aplicando pensamiento algorítmico para mejorar la eficiencia operativa[cite: 22, 23].
+**HEG MÁQUINAS | Gestión de Procesos**
+* Diseñé e implementé nuevas lógicas de gestión de inventario para optimizar la cadena de suministro.
+* Lideré la relación con proveedores críticos, resolviendo incidencias bajo presión.
 
 ---
 
 ### 🎓 Formación Académica
 
-* **Técnico Superior en Programación** | [cite_start]TECLAB Instituto Técnico Superior[cite: 26].
-* **Especialización en IA Generativa y Automatización** | [cite_start]Google Cloud (En curso)[cite: 27].
-* **Fundamentos de Python y Java** | [cite_start]Cisco Networking Academy[cite: 28].
-* **Técnico Químico** | [cite_start]EET N° 479 "Dr. Manuel Pizarro"[cite: 29].
+* **Técnico Superior en Programación** | TECLAB Instituto Técnico Superior.
+* **Especialización en IA Generativa y Automatización** | Google Cloud (En curso).
+* **Técnico Químico** | EET N° 479 "Dr. Manuel Pizarro".
 
 ---
 
-### 📫 Conectemos
-* [cite_start]**LinkedIn:** [linkedin.com/in/germanrindizbacher](https://linkedin.com/in/germanrindizbacher) [cite: 4]
-* [cite_start]**Email:** grindiz1989@gmail.com [cite: 3]
-* [cite_start]**Ubicación:** Santa Fe, Argentina 🇦🇷 [cite: 3]
+### 📫 Conectemos:
+- **LinkedIn:** [linkedin.com/in/germanrindizbacher](https://linkedin.com/in/germanrindizbacher)
+- **Email:** grindiz1989@gmail.com
+- **Ubicación:** Santa Fe, Argentina 🇦🇷
