@@ -2,7 +2,7 @@
 
 ### 🚀 Software Developer | Full Stack & AI Automation
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y escalables. Me gradué como Técnico Superior en Programación en el Instituto Teclab y cuento con una sólida base analítica gracias a mi formación como Técnico Químico. Actualmente estoy especializándome en IA Generativa y automatización de procesos.
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y escalables. Me gradué como Técnico Superior en Programación en el Instituto Teclab y cuento con una sólida base analítica gracias a mi formación. Actualmente estoy especializándome en IA Generativa y automatización de procesos.
 
 ---
 
