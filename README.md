@@ -46,10 +46,9 @@ Plataforma web para el mercado de eventos de alta gama en Uruguay.
 
 #### ⏱️ [Pro Task Scheduler](https://github.com/gerindiz)
 Aplicación de productividad enfocada en UX y gestión de tiempos.
-
-🛠 Stack Tecnológico
-**Vanilla JavaScript, 
-**Native Notifications API
+ 🛠️ Stack Tecnológico
+- **Frontend:** HTML5 semántico y CSS3 (Flexbox/Grid).
+- **Lógica:** JavaScript ES6+ (Manipulación de DOM, Async/Await simulado, Blobs para archivos).
 
 * **Logro:** Desarrollé una herramienta ligera con enfoque en notificaciones nativas para mejorar el flujo de trabajo diario.
 
