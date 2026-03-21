@@ -23,7 +23,8 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y 
 
 #### 🩺 [VitalTrack - Dashboard de Telemetría Logística](https://github.com/gerindiz)
 Sistema de monitoreo para la cadena de frío de suministros médicos críticos.
- *🛠 Stack Tecnológico
+
+🛠 Stack Tecnológico
 * **Frontend:** React + Vite
 * **Estilos:** Tailwind CSS
 * **Base de Datos:** Supabase
@@ -33,7 +34,8 @@ Sistema de monitoreo para la cadena de frío de suministros médicos críticos.
 
 #### ⛺ [Carpas Beduinas Uruguay - Web de Alquiler](https://github.com/gerindiz)
 Plataforma web para el mercado de eventos de alta gama en Uruguay.
- *🛠 Stack Tecnológico
+
+🛠 Stack Tecnológico
 * **Frontend:** React + Vite
 * **Estilos:** Tailwind CSS
 * **Base de Datos:** Supabase
@@ -45,7 +47,7 @@ Plataforma web para el mercado de eventos de alta gama en Uruguay.
 #### ⏱️ [Pro Task Scheduler](https://github.com/gerindiz)
 Aplicación de productividad enfocada en UX y gestión de tiempos.
 
-*🛠 Stack Tecnológico
+🛠 Stack Tecnológico
 **Vanilla JavaScript, 
 **Native Notifications API
 
