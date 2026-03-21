@@ -76,6 +76,6 @@ He trabajado en el diseño e implementación de soluciones desde cero, así como
 ---
 
 ### 📫 Conectemos:
-- **LinkedIn:** [linkedin.com/in//grindiz1989]
+- **LinkedIn:** [www.linkedin.com/in/grindiz1989]
 - **Email:** grindiz1989@gmail.com
 - **Ubicación:** Santa Fe, Argentina 🇦🇷
