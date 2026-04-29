@@ -1,83 +1,69 @@
-# ¡Hola! Soy Germán Rindizbacher 👋
+# Hi, I'm Germán Rindizbacher 👋
 
-### 🚀 Software Developer | Full Stack & AI Automation
-
-Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y escalables. Me gradué como Técnico Superior en Programación en el Instituto Teclab y cuento con una sólida base analítica gracias a mi formación como Técnico Químico. Actualmente estoy especializándome en IA Generativa y automatización de procesos con Google Cloud.
+**Full-Stack Developer** focused on building AI-powered, data-driven, and real-time web applications.
+Based in Santa Fe, Argentina 🇦🇷 — open to remote opportunities worldwide 🌎
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 🧑‍💻 About Me
+
+- 🔭 Currently building: AI workflow automation & real-time data dashboards
+- 🌱 Deepening skills in: Generative AI, Google Cloud, process automation with Python
+- 💬 Ask me about: React, TypeScript, Node.js, Supabase, REST APIs, Python automation
+- 📫 Reach me: [linkedin.com/in/grindiz1989](https://linkedin.com/in/grindiz1989) · grindiz1989@gmail.com
+- 🎓 Background: Técnico Superior en Programación (TECLAB) + Técnico Químico — strong analytical foundation
+
+---
+
+## 🛠️ Tech Stack
 
 **Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-**Backend & Cloud**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Backend & Automation**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-**Bases de Datos & IA**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![ChatGPT](https://img.shields.io/badge/Generative_AI-74aa1c?style=for-the-badge&logo=openai&logoColor=white)
+**Database & BaaS**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
 
----
-
----
-
-### 📊 Proyectos Destacados
-
-#### 🩺 [VitalTrack - Dashboard de Telemetría Logística](https://github.com/gerindiz)
-Sistema de monitoreo para la cadena de frío de suministros médicos críticos.
-
-🛠 Stack Tecnológico
-* **Frontend:** React + Vite
-* **Estilos:** Tailwind CSS
-* **Base de Datos:** Supabase
-* **Automatización:** Make (Integromat)
-* **Despliegue:** Vercel
-* **Logro:** Implementé visualización de datos en tiempo real para asegurar la integridad de productos termosensibles.
-
-#### ⛺ [Carpas Beduinas Uruguay - Web de Alquiler](https://github.com/gerindiz)
-Plataforma web para el mercado de eventos de alta gama en Uruguay.
-
-🛠 Stack Tecnológico
-* **Frontend:** React + Vite
-* **Estilos:** Tailwind CSS
-* **Base de Datos:** Supabase
-* **Automatización:** Make (Integromat)
-* **Despliegue:** Vercel
-
-* **Logro:** Diseñé un catálogo visual optimizado y un flujo de reservas que incrementó la conversión de consultas directas.
-
-#### ⏱️ [Pro Task Scheduler](https://github.com/gerindiz)
-Aplicación de productividad enfocada en UX y gestión de tiempos.
- 🛠️ Stack Tecnológico
-- **Frontend:** HTML5 semántico y CSS3 (Flexbox/Grid).
-- **Lógica:** JavaScript ES6+ (Manipulación de DOM, Async/Await simulado, Blobs para archivos).
-
-* **Logro:** Desarrollé una herramienta ligera con enfoque en notificaciones nativas para mejorar el flujo de trabajo diario.
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Make](https://img.shields.io/badge/Make_(Integromat)-6D00CC?style=flat&logo=make&logoColor=white)
 
 ---
 
-### 💼 Experiencia Relevante
+## 🚀 Featured Projects
 
-**HEG MÁQUINAS | Optimización de Procesos**
-* Implementé lógicas de inventario que mejoraron la eficiencia de la cadena de suministro.
-* Gestión de proveedores críticos y resolución de incidencias técnicas bajo presión.
-
-**Desarrollador Full Stack
-**Freelance
-2024 - Actualidad
-He trabajado en el diseño e implementación de soluciones desde cero, así como en la mejora y optimización de proyectos existentes. Me he encargado de todo el ciclo de desarrollo, desde la planificación y arquitectura hasta la implementación y mantenimiento, asegurando código limpio, escalabilidad y una excelente experiencia de usuario. Además, colaboro directamente con clientes para entender sus necesidades y traducirlas en soluciones eficientes y funcionales.
+| Project | Description | Stack | Demo |
+|---------|-------------|-------|------|
+| 🏥 [VitalTrack](https://github.com/gerindiz/vital-track-dashboard) | Real-time medical cold-chain logistics telemetry dashboard with GPS tracking, geofencing & auto-alerts | React · TypeScript · Supabase · Leaflet | [Live](https://vital-track-dashboard.vercel.app/) |
+| 💹 [Nexus Pro Dashboard](https://github.com/gerindiz/nexus-pro-dashboard) | High-performance financial dashboard with full CRUD, dynamic charts & real-time data sync | React · TypeScript · Supabase · Tailwind v4 | [Live](https://nexus-pro-dashboard-seven.vercel.app) |
+| 🤖 [NexusFlow](https://github.com/gerindiz/nexusflow) | AI-powered workflow automation platform built with Next.js | Next.js · TypeScript · AI | WIP |
+| 🌐 [Portfolio](https://github.com/gerindiz/Portfolio) | Personal developer portfolio | React · TypeScript · Vercel | [Live](https://portfolio-opal-three-64.vercel.app/) |
 
 ---
 
-### 🎓 Formación Académica
+## 📊 GitHub Stats
 
-* **Técnico Superior en Programación** | TECLAB Instituto Técnico Superior.
-* **Especialización en IA Generativa y Automatización** | Google Cloud (En curso).
-* **Técnico Químico** | EET N° 479 "Dr. Manuel Pizarro".
+![Germán's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerindiz&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerindiz&layout=compact&theme=default&hide_border=true)
 
 ---
 
-### 📫 Conectemos:
-- **LinkedIn:** [www.linkedin.com/in/grindiz1989]
-- **Email:** grindiz1989@gmail.com
-- **Ubicación:** Santa Fe, Argentina 🇦🇷
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/grindiz1989)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gerindiz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-opal-three-64.vercel.app/)
