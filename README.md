@@ -50,7 +50,7 @@ Based in Santa Fe, Argentina 🇦🇷 — open to remote opportunities worldwide
 |---------|-------------|-------|------|
 | 🏥 [VitalTrack](https://github.com/gerindiz/vital-track-dashboard) | Real-time medical cold-chain logistics telemetry dashboard with GPS tracking, geofencing & auto-alerts | React · TypeScript · Supabase · Leaflet | [Live](https://vital-track-dashboard.vercel.app/) |
 | 💹 [Nexus Pro Dashboard](https://github.com/gerindiz/nexus-pro-dashboard) | High-performance financial dashboard with full CRUD, dynamic charts & real-time data sync | React · TypeScript · Supabase · Tailwind v4 | [Live](https://nexus-pro-dashboard-seven.vercel.app) |
-| 🤖 [NexusFlow](https://github.com/gerindiz/nexusflow) | AI-powered workflow automation platform built with Next.js | Next.js · TypeScript · AI | WIP |
+| ⚡ [NexusFlow]|(https://github.com/gerindiz/nexusflow) | AI-powered SaaS platform — workflow automation with Gemini 2.5 Flash agents, Supabase RLS auth and real-time dashboard | Next.js 15 · TypeScript · AI SDK · Supabase | [Live](https://nexusflow-coral.vercel.app) |
 | 🌐 [Portfolio](https://github.com/gerindiz/Portfolio) | Personal developer portfolio | React · TypeScript · Vercel | [Live](https://portfolio-opal-three-64.vercel.app/) |
 
 ---
